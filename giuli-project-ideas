@@ -1,0 +1,58 @@
+Analyze Lending Club Notes Titles to predict default
+	- an NLP approach to risk:
+		- ARE FULLY CAPITALIZED TITLES DIFFERENT?
+		- Does the number of word have an impact on default?
+	- is the term a good predictor of churn?
+	- is the loan intent a good predictor of churn?
+
+Predict Approval Odds for PLoans and CCs
+	- improve underwriting criteria for credit products
+	- understand what are the relevant features
+	- understand how to create a better and self-sustainable feedbac loop to improve the model
+
+Predict who are the users likely to login / churn
+	- given how users interact with the website
+		- what is the page form factor of registration?
+		- does the user have our app?
+		- how many times have this user logged in the past?
+			- past week
+			- past month
+			- past 6 months
+	- given how users interact with email
+		- how many emails did we send?
+			- per email category
+		- how many emails did the user open / click / engage with?
+			- per email category
+		- has the user unsubscribed?
+			- per email category
+	- given the user's features
+		- what is the user's credit score?
+		- what are the users demographics?
+		- what is the marketing source?
+
+Predict who are the users likely to unsubscribe
+	- given how users interact with the website
+		- what is the page form factor of registration?
+		- does the user have our app?
+		- how many times have this user logged in the past?
+			- past week
+			- past month
+			- past 6 months
+	- given how users interact with email
+		- how many emails did we send?
+			- per email category
+		- how many emails did the user open / click / engage with?
+			- per email category
+		- has the user unsubscribed?
+			- per email category
+	- given the user's features
+		- what is the user's credit score?
+		- what are the users demographics?
+		- what is the marketing source?
+
+
+
+
+
+
+
